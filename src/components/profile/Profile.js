@@ -8,7 +8,7 @@ const Profile = (props) => {
     return (
         <>
 
-            <div className="container mt-5 my-4 mb-4 p-3 d-flex justify-content-center">
+            <div className="container mt-5 mb-4 p-3 d-flex justify-content-center profile">
                 <div className='profile-wrap'>
                     <div className="card cardprofile" style={{ width: "18rem" }}>
                         <div className='d-flex justify-content-center'>
